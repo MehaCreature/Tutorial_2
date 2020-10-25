@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Coin
   - Ground
+  - Enemy
+  - Threshold
+  - Progress
   layers:
   - Default
   - TransparentFX
